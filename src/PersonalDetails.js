@@ -29,7 +29,7 @@ const PersonalDetails = () => (
                     </li>
                     <li className="link-item">
                         <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-jobseeker-profile--profile-one-frontend" target="_blank" rel="noopener noreferrer">
-                        <img src="/indeed2.png" alt="indeed" className="custom-icon1" />
+                        <img src="/indeed3.png" alt="indeed" className="custom-icon1" />
                         <span className="hover-text">Indeed</span></a>
                     </li>
                 </ul>
